@@ -1,0 +1,11 @@
+Title: GitHub
+----
+Description:
+GitHub is the keystone in software development.
+
+The software "Git" is used to *version-control* a code project, by keeping track of changes that users make. Multiple users can add changes to a centralized code *repository* that can then be fetched and integrated by other users, seamlessly.
+
+GitHub, appropriately, is the hub of activity for collaborating software developers like yourselves that use Git to manage their code.
+----
+Link:
+https://github.com/

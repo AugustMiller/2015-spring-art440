@@ -1,0 +1,11 @@
+Title: ART440
+----
+Term: Spring 2015
+----
+Author: August Miller
+----
+Description: Spring 2015 Session of ART440: Interactive Team.
+----
+Keywords: education, university, spring, 2015, computer science, design, technology
+----
+Copyright: Built with (link: http://getkirby.com/ text: Kirby CMS) by (link: http://gusmiller.com/ text: August W. Miller) for ART440, Spring 2015 at Portland State University.

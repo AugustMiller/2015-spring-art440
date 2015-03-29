@@ -1,0 +1,9 @@
+Title: Sass
+----
+Description:
+Syntactically Awesome Stylesheets are an incredible distillation and expansion of CSS. We'll be using this *preprocessor* to make our stylesheets much easier to manage when working collaboratively.
+
+A simple `$ gem install sass` and `$ sass --watch source.sass:destination.sass` will get you on your way— don't worry, though, we'll cover this in class.
+----
+Link:
+http://sass-lang.com/

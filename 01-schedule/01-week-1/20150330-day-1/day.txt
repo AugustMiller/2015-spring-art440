@@ -1,0 +1,23 @@
+Title: Day 1
+----
+Date: 20150330
+----
+Agenda:
+Hi, there! Nice of you to join us.
+
+Due to some uncertainty about the number of available clients, we will be spending the first couple of weeks doing some review on fundamental web technology, and begin looking at a few additional languages and tools.
+
+We'll also open a dialog regarding the structure of interactive design jobs, including process, services and roles that allow us to work effectively at scale, even when distributed.
+
+----
+Notes:
+----
+Concepts:
+Project Structure, Working on a Team, Front- and Back-end Engineering
+----
+Checklist:
+- Review Syllabus and join (link: https://psudesign.slack.com/ text: Slack) to confirm your participation.
+- Sign up for an account on (link: https://github.com/ text: GitHub) and post a link to your profile in Slack. You will be invited to participate in the PSU Graphic Design organization, this week. Install the (link: https://mac.github.com/ text: GitHub for Mac) app.
+- Run software update on your computer. No class time will be devoted to troubleshooting out-of-date software.
+- Purchase and install (link: http://www.sublimetext.com/2 text: SublimeText 2).
+- Purchase and begin reading (link: http://abookapart.com/products/design-is-a-job text: Design is a Job) by Mike Monteiro. You should be finished by Monday, 6 April.
