@@ -49,4 +49,4 @@ Checklist:
 - Sign up for an account on (link: https://github.com/ text: GitHub) and post a link to your profile in the Slack `#links` channel. You will be invited to participate in the PSU Graphic Design organization, this week. Install the (link: https://mac.github.com/ text: GitHub for Mac) app.
 - Run software update on your computer. No class time will be devoted to troubleshooting out-of-date software.
 - Purchase and install (link: http://www.sublimetext.com/2 text: SublimeText 2).
-- Purchase and begin reading (link: http://abookapart.com/products/design-is-a-job text: *Design is a Job*) by Mike Monteiro. You should be finished by Monday, 6 April.
+- Purchase and begin reading (link: http://abookapart.com/products/design-is-a-job text: *Design is a Job*) by Mike Monteiro. You should be finished by Monday, 13 April.
