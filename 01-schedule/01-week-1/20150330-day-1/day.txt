@@ -40,6 +40,8 @@ Notes:
 
 Let's walk through some of the new stuff we'll be learning.
 
+Be sure to add open-source comment to client agreement!
+
 ----
 Concepts:
 Project Structure, Working on a Team, Front- and Back-end Engineering
