@@ -11,13 +11,42 @@ We'll also open a dialog regarding the structure of interactive design jobs, inc
 
 ----
 Notes:
+- Introduction
+-- Teaching (Hello, familiar faces!)
+-- Professional
+-- Design + Code
+- Survey of recent coding:
+-- When did you last take an Interactive-track course?
+-- Have you worked outside of class time?
+-- Freelance? (How did it go?)
+-- Misgivings about education so far, gaps in knowledge... What has been the most difficult part?
+- What is this course?
+-- Everything you've been doing, plus:
+--- Teamwork
+---- Strategy for creating teams
+--- New technology
+-- Clients... One confirmed, others unknown
+-- Project Phases:
+--- Strategy
+--- Design
+--- Development
+-- Expectations (Increased)
+--- Ideas (Everything from strategy to interactive components)
+--- Visual Polish
+--- Communication
+---- Impress your clients
+---- Reading, writing
+--- Code
+
+Let's walk through some of the new stuff we'll be learning.
+
 ----
 Concepts:
 Project Structure, Working on a Team, Front- and Back-end Engineering
 ----
 Checklist:
 - Review Syllabus and join (link: https://psudesign.slack.com/ text: Slack) to confirm your participation.
-- Sign up for an account on (link: https://github.com/ text: GitHub) and post a link to your profile in Slack. You will be invited to participate in the PSU Graphic Design organization, this week. Install the (link: https://mac.github.com/ text: GitHub for Mac) app.
+- Sign up for an account on (link: https://github.com/ text: GitHub) and post a link to your profile in the Slack `#links` channel. You will be invited to participate in the PSU Graphic Design organization, this week. Install the (link: https://mac.github.com/ text: GitHub for Mac) app.
 - Run software update on your computer. No class time will be devoted to troubleshooting out-of-date software.
 - Purchase and install (link: http://www.sublimetext.com/2 text: SublimeText 2).
-- Purchase and begin reading (link: http://abookapart.com/products/design-is-a-job text: Design is a Job) by Mike Monteiro. You should be finished by Monday, 6 April.
+- Purchase and begin reading (link: http://abookapart.com/products/design-is-a-job text: *Design is a Job*) by Mike Monteiro. You should be finished by Monday, 6 April.
