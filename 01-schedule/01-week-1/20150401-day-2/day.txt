@@ -29,4 +29,4 @@ Notes:
 Concepts:
 ----
 Checklist:
-- For Monday, generate a minimum of five preliminary questions for our clients. These can be very general, but should have useful answers, moving forward
+- For Monday, generate a minimum of five preliminary questions for our clients. These can be general, but must have useful answers, moving forward.
