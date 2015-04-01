@@ -1,0 +1,32 @@
+Title: Day 2
+----
+Date: 20150401
+----
+Agenda:
+Let's go back through the Git workflow. Along the way, we'll refresh our understanding of HTML, CSS and JavaScript, and how the three come together to create rich, interactive websites.
+
+The demo today will move quickly, but we'll check in frequently to make sure everyone stays abreast.
+
+----
+Notes:
+- Remember what happened last time?
+-- Git
+-- Sass
+-- PHP
+-- Kirby
+- What we're doing today
+-- More Git
+-- More Sass
+-- Kirby Blueprints (Data structures)
+-- Kirby Page Creation, Templates
+-- Sample Project (ScriptEd?)
+--- Strategy, Design, Dev
+- Looking ahead
+-- My role: code contributions, communication
+- Demonstration (this time, everyone)
+-- Notes for this portion of class are in the repo's Readme
+----
+Concepts:
+----
+Checklist:
+- For Monday, generate a minimum of five preliminary questions for our clients. These can be very general, but should have useful answers, moving forward
