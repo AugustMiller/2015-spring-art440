@@ -1,0 +1,54 @@
+Title: Day 3
+----
+Date: 20150406
+----
+Agenda:
+Let's go over the questions you drafted, this weekend. We'll discuss what makes a good question, and fill in any gaps.
+
+We'll also continue with our collaborative Git work with (link: http://getkirby.com/docs/panel/blueprints text: Blueprints), (link: http://getkirby.com/docs/templates text: Templates) and the (link: http://getkirby.com/docs/panel/ text: Kirby Panel).
+
+Remember how cool it was when we saw a beautiful form displayed from just a few lines of YAML? Wait until we fill it out, and build a template.
+
+----
+Notes:
+- Try `$ php -S localhost:8000` immediately.
+- Install XAMPP, Koala if on PC, MAMP if on OS X.
+- Running a web server
+- Recap on blueprints. Show completed YAML file and the form it generates.
+-- See how this is better than writing HTML?
+-- Things to keep in mind about YAML/Blueprints (whitespace, field names)
+- Fill out the form, and see what happens in the `content` folder.
+- But where is all our stuff, when we view the site?
+
+- Templates
+-- Look at `templates/default.php` or `templates/error.php`, and corresponding Blueprints
+- What is a template?
+-- A way of simplifying development for many pages that contain similar content
+-- Think about a blog
+-- "DRY programming"
+- Creating a new template
+-- Same name as the blueprint, but in `site/templates` instead of `site/blueprints`
+-- HTML works, but…
+-- How do we get that data? (Look at `default` and `error` templates!)
+--- We need PHP.
+--- PHP tags, echo tags
+--- `snippet('name')`
+--- `$page` object, `<?= $page->field_name() ?>`
+-- Go!
+
+- One-on-one meetings
+-- Show me your work and speak briefly about your favorite project.
+-- What do you like/dislike about code?
+-- Where did you leave off?
+-- Can/Should I push you to explore new technology?
+-- How has class been, so far? Fast/slow/easy/hard/confusing, anything.
+
+----
+Concepts:
+Git Workflow, Client Relationships, PHP, Sass, The Terminal
+----
+Checklist:
+- Have your list of client questions ready to share.
+- Collect some work (and keep it handy— or post a link to Slack) so that we can look it over during one-on-one check-ins.
+- Read up on the linked items in today's agenda. Even if they don't stick, you'll have them on hand for some solo work time.
+- If you're working on a PC, please (link: https://teamtreehouse.com/library/build-a-simple-php-application/getting-started-with-php/install-php-on-windows-7 text: install XAMPP) so that we can get started with development right away. No action is required for OS X users.
