@@ -51,4 +51,4 @@ Checklist:
 - Have your list of client questions ready to share.
 - Collect some work (and keep it handy— or post a link to Slack) so that we can look it over during one-on-one check-ins.
 - Read up on the linked items in today's agenda. Even if they don't stick, you'll have them on hand for some solo work time.
-- If you're working on a PC, please (link: https://teamtreehouse.com/library/build-a-simple-php-application/getting-started-with-php/install-php-on-windows-7 text: install XAMPP) so that we can get started with development right away. No action is required for OS X users.
+- If you're working on a PC, please (link: https://teamtreehouse.com/library/build-a-simple-php-application/getting-started-with-php/install-php-on-windows-7 text: install XAMPP) and (link: http://koala-app.com text: Koala) so that we can get started with development right away. No action is required for OS X users.
