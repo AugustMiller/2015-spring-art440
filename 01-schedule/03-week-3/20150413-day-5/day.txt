@@ -7,6 +7,8 @@ Today, our A+D Projects team will meet.
 
 Meanwhile, the rest of us will collate client meeting notes and begin to define objectives.
 
+Once we reconvene, I'd like to approach Blueprints from a different angle. We'll start by revisiting the concept of Content Management Systems.
+
 ----
 Notes:
 - Share advice with A+D from prior meetings?
@@ -37,6 +39,7 @@ Concepts:
 The Strategy Brief, Content Management Systems, Preprocessors
 ----
 Checklist:
+- You should be done with Design is a Job by now.
 - Be ready with notes from your client meetings
 - PC users, please install (link: http://koala-app.com text: Koala)
 - Get into groups and compare your notes
