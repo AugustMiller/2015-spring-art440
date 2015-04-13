@@ -15,6 +15,7 @@ Notes:
 - Bye, A+D! (Reconvene at 10:30ish?)
 - Remainder of us will begin transforming notes into goals.
 -- Look over strategy brief, scope of work, again.
+- Design is a Job (Passages I highlighted… Yours?)
 - Technology
 -- Revising the Blueprint, via the idea of a CMS
 --- Making the storage and display of like information easy.
