@@ -1,0 +1,45 @@
+Title: Day 3
+----
+Date: 20150406
+----
+Agenda:
+Today, our A+D Projects team will meet.
+
+Meanwhile, the rest of us will collate client meeting notes and begin to define objectives.
+
+----
+Notes:
+- Share advice with A+D from prior meetings?
+- Bye, A+D! (Reconvene at 10:30ish?)
+- Remainder of us will begin transforming notes into goals.
+-- Look over strategy brief, scope of work, again.
+- Technology
+-- Revising the Blueprint, via the idea of a CMS
+--- Making the storage and display of like information easy.
+--- Notion of a blog post shouldn't change from post to post, so why continue to redefine it?
+---- Let's define *the idea of a blog post* once.
+-- New repo! Check it out.
+--- Clone (PC Users, use different path… C:\xampp\htdocs\, I think)
+--- Create account
+--- Add Yourself
+---- Markdown (http://daringfireball.net/projects/markdown/basics)
+-- No links? Let's add them.
+--- PHP tags, Short Echo, html::a(…)
+-- Student pages looking a little dull.
+--- Let's compile the CSS and see what happens.
+---- Koala, or…
+---- `gem install sass`, `sass --update sass/students.sass:css/students.css`
+--- Nice. Everyone got the same resulting CSS from the same collection of Sass files.
+- Go home early? Damn.
+
+----
+Concepts:
+The Strategy Brief, Content Management Systems, Preprocessors
+----
+Checklist:
+- Be ready with notes from your client meetings
+- PC users, please install (link: http://koala-app.com text: Koala)
+- Get into groups and compare your notes
+- Consolidate and crystallize captured ideas into a single list
+- By Wednesday, invite me to a shared document with your ideas collected
+- Be ready to deliver a complete strategy brief by Monday, April 20.
