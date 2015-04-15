@@ -1,0 +1,30 @@
+Title: Day 3
+----
+Date: 20150406
+----
+Agenda:
+We'll continue to comb through our notes and pull out recurring themes in anticipation of writing our Strategy Briefs.
+
+For our A+D teams, this process may need to be adjusted to accommodate… Let's consider ways we can begin planning the _back-end architecture_ of our sites, and start researching technology that will help us.
+
+By the end of the meeting, please share your list of ideas as a Snippet in Slack (`#projects` channel), so the class can see the range of objectives, across projects.
+
+----
+Notes:
+- Guided work time
+- Email clients if you haven't already
+-- Thanks for joining us
+-- Follow-up questions
+-- 
+- Format of idea list for end of class
+-- "Name"
+-- Short description (capture the idea/objective in a few words…)
+- How will A+D Projects teams work? Do we now have two parallel agendas?
+----
+Concepts:
+The Strategy Brief
+----
+Checklist:
+- Be ready to review notes and preliminary ideas for your clients
+- I'll meet with each team/group individually to offer feedback
+- Post a succinct list (we'll talk about the format) of your project objectives to Slack, in `#projects`
