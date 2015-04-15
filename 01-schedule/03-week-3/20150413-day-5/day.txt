@@ -27,7 +27,7 @@ Notes:
 --- Add Yourself
 ---- Markdown (http://daringfireball.net/projects/markdown/basics)
 -- No links? Let's add them.
---- PHP tags, Short Echo, html::a(…)
+--- PHP tags, Short Echo, `html::a(…)`
 -- Student pages looking a little dull.
 --- Let's compile the CSS and see what happens.
 ---- Koala, or…
