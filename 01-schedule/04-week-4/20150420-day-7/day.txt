@@ -1,0 +1,31 @@
+Title: Day 7
+----
+Date: 20150420
+----
+Agenda:
+Today, we'll be wrapping up our Strategy Briefs and delivering them to our clients. When you send them, include a date by which you expect to hear back.
+
+I will move around between groups
+
+----
+Notes:
+- New: Daily updates. "Standup"
+-- What happened since last time?
+-- What are you doing today?
+-- What is blocking?
+- Let's keep going on the Strategy Briefs
+-- Respond by date... Or else we keep working.
+- What can we get started on, right away?
+-- Site architecture
+-- Defining page templates and data
+- Technology
+-- Git workflow, Issue Tracker, etc.
+-- BeHonest Blueprints
+
+----
+Concepts:
+The Strategy Brief
+----
+Checklist:
+- By the end of class, your strategy briefs should be sent. Nice work.
+- 
