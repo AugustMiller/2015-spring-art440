@@ -1,0 +1,22 @@
+Title: Day 8
+----
+Date: 20150422
+----
+Agenda:
+Let’s start with another “Stand-up.” Be sure to answer the three questions:
+- What happened since last time?
+- What are you doing between now and our next meeting?
+- Are there any blocking obstacles?
+
+Because we have our Strategy Briefs out, we can talk about a couple of exercises that will help us start establishing a detailed outline of our websites’ pages and content.
+
+----
+Notes:
+- Stand-Up
+- "Information Architecture"
+-- What information do I need to show, and how do I show it?
+-- Re-visit BeHonest GitHub tickets
+- Work through BeHonest Blueprints and the Panel with Donna
+-- Add 4 Students
+-- Adjust templates to suit (columns, lists, etc.)
+-- Show this to the class, once we have things set up?
