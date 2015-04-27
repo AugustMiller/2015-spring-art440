@@ -1,0 +1,21 @@
+Title: Day 9
+----
+Date: 20150427
+----
+Agenda:
+Stand Up!
+
+At this point, your projects’ timelines have diverged. As we approach development phases, I'll plan a meeting to go back over our Git workflow and starting up a PHP server. Check out the repositories for (link: https://github.com/PSUGraphicDesign/be-honest text: BeHonest), (link: https://github.com/PSUGraphicDesign/rule-62 text: Rule 62), (link: https://github.com/PSUGraphicDesign/colevity text: CoLevity) and (link: https://github.com/PSUGraphicDesign/show-and-tell text: Show & Tell)!
+
+Today, I’ll check in with each team, individually. Many of you have begun wireframing, or are already pursuing visual design. Let’s have a quick conversation about how the next few weeks will be structured.
+
+----
+Checklist:
+- Be ready to talk about schedules, in detail, during our group meetings.
+----
+Notes:
+- Stand-Up
+- Review Schedules
+- Check in with Kadie, Jordan
+-- Review blueprints with Kadie
+- Set up PSUGraphicDesign/assembly
