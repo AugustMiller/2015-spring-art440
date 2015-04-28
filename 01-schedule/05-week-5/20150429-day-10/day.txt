@@ -3,7 +3,7 @@ Title: Day 10
 Date: 20150429
 ----
 Agenda:
-Standups have been going well— let’s start there. I’d like to add one question for this check-in, though.
+Stand-ups have been going well— let’s start there. I’d like to add one question for this check-in, though.
 
 _What skill were you most interested in developing this term?_
 
