@@ -1,0 +1,43 @@
+Title: Day 11
+----
+Date: 20150504
+----
+Agenda:
+Congratulations to everyone that participated in BeHonest!
+
+Today, we'll address a couple of technology topics that came up during Wednesday's Stand-up.
+
+Don't worry! There will be time in the second half of class to work within your groups. I'd like to check in again with each group and find out how I can contribute to a painless transition into development.
+
+----
+Checklist:
+- Stand Up!
+
+----
+Notes:
+- Stand Up
+- Today's Tech Discussion
+-- What is an Application? Instagram?
+--- Presentation layer (Experience: Interface, Apperance)
+--- Service (Backend Architecture)
+--- But Really: The complete experience
+-- What is a API?
+--- The way we _interact_ with an _application_ through code or other applications
+--- An API can be used to facilitate the creation of many full-application experiences (i.e. web, mobile, native app)
+-- We're building an application! (Using Kirby)
+--- Define the backend architecture (Blueprints)
+--- Leverage an existing API (Kirby)
+--- Present data in a meaningful way (Templates, Appearance)
+-- Kirby, a combination of:
+--- Conventions (Blueprint, Template, Controller names, i.e. `event` or `page`)
+--- API (Most page methods, data accessors)
+...
+-- Mobile Adaptation
+--- A new kind of matching
+---- Selectors (Class, tag, etc.)
+---- Pseudo-selectors (:hover, :active)
+---- "Media" or Viewing Context (Screen, Print, and sizes thereof)
+--- BeHonest— the reasons we need mobile adaptations
+---- Inspect it!
+
+

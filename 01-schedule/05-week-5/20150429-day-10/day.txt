@@ -17,3 +17,12 @@ Checklist:
 - *Nervous Laugh*
 ----
 Notes:
+
+- Resolve speaker images with Donna
+- Check in with Jordan regarding first steps in development
+- Get some data into templates with Kadie
+
+- "Voodoo magic" part of web projects— GitHub setup (Collaborative Workflow+++)
+- Media Queries (Implementing designs on mobile)
+- Blueprints
+- Kirby architecture (Diagram, overview!)
