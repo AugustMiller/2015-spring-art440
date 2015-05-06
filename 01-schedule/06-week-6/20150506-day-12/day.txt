@@ -1,0 +1,19 @@
+Title: Day 12
+----
+Date: 20150506
+----
+Agenda:
+It seems as though we’re nearing the tipping point for engineering in most projects.
+
+I'll be meeting with each group to define content types and blueprints as well as polish information architecture.
+
+Wish the CoLevity team good fortune as they present their designs to Cami! We should look to them to share we the rest of us how their meeting went, after the fact.
+
+----
+Checklist:
+
+----
+Notes:
+- Introduce Kadie to new templates, blueprints, etc.
+- Talk with Jordan regarding blueprint adjustments
+- Rule 62!
