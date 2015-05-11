@@ -1,0 +1,19 @@
+Title: Day 13
+----
+Date: 20150511
+----
+Agenda:
+It looks as though the remainder of the term will be devoted to development.
+
+This means that I'll be meeting with each group, in turn, to lay groundwork for our Kirby-based sites.
+
+I understand that many of you are uncertain where to begin. That is to be expected— I am here to help make the transition. I will be more hands-on in the initial phases of development, then back away slowly as the group begins to get comfortable.
+
+Please understand that this groudwork will require me to prioritize, which could be a bottleneck in your group's workflow. We can talk about how these _sprints_ will affect each group, during today's meeting.
+
+----
+Checklist:
+- Stand Up!
+
+----
+Notes:
